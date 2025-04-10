@@ -2,8 +2,6 @@
 
 A modern and responsive **Personal Portfolio** built with **React**, showcasing projects, skills, and contact details in a clean UI.
 
-![Portfolio Screenshot](https://user-images.githubusercontent.com/50160672/174933373-1ba6cadf-1c9a-48c3-aa58-984d0bd62d82.png)
-
 ---
 
 ## 🚀 Tech Stack
