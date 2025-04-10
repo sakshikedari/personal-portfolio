@@ -1,36 +1,56 @@
-# Personal Portfolio Website in React
+# 💼 Personal Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern and responsive **Personal Portfolio** built with **React**, showcasing projects, skills, and contact details in a clean UI.
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://user-images.githubusercontent.com/50160672/174933373-1ba6cadf-1c9a-48c3-aa58-984d0bd62d82.png">
+![Portfolio Screenshot](https://user-images.githubusercontent.com/50160672/174933373-1ba6cadf-1c9a-48c3-aa58-984d0bd62d82.png)
 
-Built using:
+---
 
-- Front-end library: React
-- CSS framework: React-bootstrap
-- CSS animations library: Animate.css
+## 🚀 Tech Stack
 
-In the /personal-portfolio, you can run:
+- ⚛️ **React** – Frontend library
+- 🎨 **React Bootstrap** – Responsive UI components
+- 💫 **Animate.css** – Smooth CSS animations
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📂 Project Structure
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Navigate to the `/personal-portfolio` directory and run the following commands:
 
-### `npm test`
+### 🛠️ `npm install`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Installs all the necessary dependencies.
 
-### `npm run build`
+### ▶️ `npm start`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Runs the app in development mode at:  
+[http://localhost:3000](http://localhost:3000)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 🧪 `npm test`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Launches the test runner in interactive watch mode.  
+Refer to [Running Tests](https://facebook.github.io/create-react-app/docs/running-tests) for more info.
+
+### 🏗️ `npm run build`
+
+Builds the app for production in the `build/` folder.  
+Optimized for best performance and ready to deploy.
+
+---
+
+## 📦 Deployment
+
+For detailed deployment instructions, check:  
+[Deployment Docs](https://facebook.github.io/create-react-app/docs/deployment)
+
+---
+
+## 📬 Contact
+
+Feel free to connect for collaboration or suggestions!  
+🔗 [LinkedIn](https://www.linkedin.com/in/sakshikedari)
+
+---
+
+> Made with ❤️ by Sakshi Kedari
