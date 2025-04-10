@@ -5,7 +5,11 @@ const nodemailer = require("nodemailer");
 require("dotenv").config();
 
 const app = express();
-app.use(cors());
+app.use(cors({
+  origin: 'https://sakshi-kedari-portfolio.netlify.app/', 
+  methods: ['POST'],
+  credentials: false
+}));
 app.use(express.json());
 
 const PORT = 4000;
